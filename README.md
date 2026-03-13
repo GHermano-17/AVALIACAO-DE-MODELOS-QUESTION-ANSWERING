@@ -54,4 +54,3 @@ pip install transformers pandas numpy matplotlib seaborn tqdm
 
 **Guilherme Hermano de Paula Ferreira**  
 CTEIA — Universidade Federal do Ceará
-```
